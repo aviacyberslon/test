@@ -8,5 +8,5 @@
 - Росавиация 
 
 
-[IL-76](IL-76_from_liquid_gold.png)
+![IL-76](IL-76_from_liquid_gold.png)
 
